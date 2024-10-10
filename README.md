@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Alice Silvestre👋
 
-![Alice GitHub stats](https://github-readme-stats.vercel.app/api?username=Alice-Silvestre&show_icons=true&theme=dracula)
+![Alice GitHub stats](https://github-readme-stats-eta-navy-58.vercel.app/api?username=Alice-Silvestre&show_icons=true&theme=dracula)
 
 
 ### Tecnologias que eu uso
