@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Alice Silvestre👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por esse mundo desafiador, criativo e cheio de possibilidades da programação.
-
-![Alice GitHub stats](https://github-readme-stats-eta-navy-58.vercel.app/api?username=Alice-Silvestre&show_icons=true&theme=dracula)
 <br/> <br/>
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Silvestre&theme=dracula)
 
