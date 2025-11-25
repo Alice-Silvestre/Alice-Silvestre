@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Alice Silvestre👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por esse mundo desafiador, criativo e cheio de possibilidades da programação.
+Sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por esse mundo desafiador, criativo e cheio de possibilidades da programação.
 <br/> <br/>
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Silvestre&theme=dracula)
 
 ### Tecnologias que eu uso
 <div style="display: inline-block"> 
@@ -16,8 +15,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por esse mun
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server" align="center">
 </div> 
 
-### Contato
-<div style="display: inline-block"> 
-  <a href="mailto:contato.alicesilvestre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" align="center"></a>
-  <a href="https://www.linkedin.com/in/alice-silvestre-815913204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center"></a>
-</div><br/>
